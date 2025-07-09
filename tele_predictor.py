@@ -16,7 +16,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  # Suppress TensorFlow logs
 tf.get_logger().setLevel('ERROR')  # Suppress TensorFlow warnings
 
 # Replace with your bot token
-BOT_TOKEN = "7603548716:AAFsHoZX50nYjWjPFkOxbDiED5bjWyoPlOk"
+# here i have a bot token Assigned which i cant reveal here
 
 # Folder to save downloaded images
 DOWNLOAD_FOLDER = "downloaded_images"
