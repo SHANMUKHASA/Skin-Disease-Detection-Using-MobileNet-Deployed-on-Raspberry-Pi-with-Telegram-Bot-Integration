@@ -24,4 +24,4 @@ This project implements a lightweight skin disease detection system using Mobile
 ---
 
 ## Output
-
+![Sample Output](output.png)
