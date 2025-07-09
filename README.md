@@ -23,5 +23,17 @@ This project implements a lightweight skin disease detection system using Mobile
 
 ---
 
+## The model is trained to classify the following seven skin conditions:
+
+1. Actinic Keratoses and Intraepithelial Carcinoma (AKIEC)  
+2. Basal Cell Carcinoma (BCC)  
+3. Benign Keratosis-like Lesions (BKL)  
+4. Dermatofibroma (DF)  
+5. Melanoma (MEL)  
+6. Melanocytic Nevi (NV)  
+7. Vascular Lesions (VASC)
+   
+---
+
 ## Output
 ![Sample Output](output.png)
